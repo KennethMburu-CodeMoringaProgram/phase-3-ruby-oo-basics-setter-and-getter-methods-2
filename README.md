@@ -104,3 +104,4 @@ need to complete the following tasks:
    `@name`.
 2. Define a `job` getter and a `job=` setter method for the instance variable
    `@job`.
+# phase-3-ruby-oo-basics-setter-and-getter-methods-2
